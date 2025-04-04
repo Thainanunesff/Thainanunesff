@@ -42,7 +42,6 @@ Atualmente, estudo para me tornar uma **Desenvolvedora Full Stack**, com foco em
 ---
 
 📫 **Vamos nos conectar?**  
-- [GitHub](https://github.com/Thainanunesff) ⭐  
 - [LinkedIn](https://www.linkedin.com/in/thainanunesf/) 💼  
 
 ---
