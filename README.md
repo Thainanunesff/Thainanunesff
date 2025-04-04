@@ -1,9 +1,12 @@
 # Hello World!! 🌎✨
 
-Sou apaixonada por tecnologia e estou sempre explorando novas formas de transformar ideias em código 
-🌐 Foco em projetos práticos e evolução constante
+Sou apaixonada por tecnologia e estou sempre explorando novas formas de transformar ideias em código.  
+
+🌐 Foco em projetos práticos e evolução constante.  
+
 Atualmente, estudo para me tornar uma **Desenvolvedora Full Stack**, com foco em **JavaScript**. 🚀  
-🧠 Estudando APIs, banco de dados e frameworks modernos
+
+🧠 Estudando APIs, banco de dados e frameworks modernos.  
 
 ---
 
